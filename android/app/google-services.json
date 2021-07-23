@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "324107138691",
+    "project_id": "alumnet-efaaf",
+    "storage_bucket": "alumnet-efaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324107138691:android:088b35fc443bc585e14db6",
+        "android_client_info": {
+          "package_name": "com.example.alumnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324107138691-mk0rnb6uretlvvqqbj5reev05iipo9j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alumnet",
+            "certificate_hash": "8834dfdd2d96e8eb0cdb84d2c9d82bed85d33601"
+          }
+        },
+        {
+          "client_id": "324107138691-42rq6vatpjv7cv9i0crhdq66qqqgi9mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEQfqR8yn5Msoyoo00Saxqmlc5WRiNuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324107138691-42rq6vatpjv7cv9i0crhdq66qqqgi9mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
