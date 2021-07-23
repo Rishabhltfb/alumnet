@@ -1,3 +1,4 @@
+import 'package:alumnet/src/provider/user_provider.dart';
 import 'package:alumnet/src/screens/auth_screen.dart';
 import 'package:alumnet/src/screens/event_screen.dart';
 import 'package:alumnet/src/screens/feed_screen.dart';
@@ -12,7 +13,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        // ChangeNotifierProvider(create: (ctx) => ConnectivityProvider()),
+        ChangeNotifierProvider(create: (ctx) => UserProvider()),
         // ChangeNotifierProvider(create: (ctx) => UserProvider()),
       ],
       child: MaterialApp(
